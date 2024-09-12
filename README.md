@@ -60,5 +60,6 @@ Contributions are welcome! Please submit a pull request or create an issue to di
 ## License
 This project is licensed under the MIT License. See the *LICENSE* file for more details.
 
-## Note:
-Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
+---
+
+*Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==*
